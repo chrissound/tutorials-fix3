@@ -1,3 +1,7 @@
-## Relevant Articles:
+## Java Strings Cookbooks and Examples
 
-- [Converting Java String to Double](https://www.baeldung.com/java-string-to-double)
+This module contains articles about strings in Java.
+
+### Relevant Articles:
+- [Java String equalsIgnoreCase()](https://www.baeldung.com/java-string-equalsignorecase)
+- More articles: [[<-- prev>]](/java-strings-2) 
